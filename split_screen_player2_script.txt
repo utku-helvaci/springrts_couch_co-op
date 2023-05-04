@@ -1,0 +1,11 @@
+[game]
+{
+	hostip = 127.0.0.1;
+	hostport = ;
+	ishost = 0;
+	mypasswd = ;
+	myplayername = u2;
+	team=1;
+	spectator=0;
+}
+
